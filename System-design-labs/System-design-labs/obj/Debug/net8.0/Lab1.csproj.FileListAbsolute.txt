@@ -1,0 +1,14 @@
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\bin\Debug\net8.0\Lab1.exe
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\bin\Debug\net8.0\Lab1.deps.json
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\bin\Debug\net8.0\Lab1.dll
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\bin\Debug\net8.0\Lab1.pdb
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.dll
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\refint\Lab1.dll
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.pdb
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\ref\Lab1.dll

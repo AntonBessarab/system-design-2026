@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|c:\\users\\anton\\system-design-2026\\system-design-labs\\system-design-labs\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|solutionrelative:system-design-labs\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|c:\\users\\anton\\system-design-2026\\system-design-labs\\system-design-labs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|solutionrelative:system-design-labs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|c:\\users\\anton\\system-design-2026\\system-design-labs\\system-design-labs\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|solutionrelative:system-design-labs\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|c:\\users\\anton\\system-design-2026\\system-design-labs\\system-design-labs\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3AE7F384-8C7C-48EE-B084-C184730E237B}|System-design-labs\\Lab1.csproj|solutionrelative:system-design-labs\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab1",
+              "DocumentMoniker": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Lab1.csproj",
+              "RelativeDocumentMoniker": "System-design-labs\\Lab1.csproj",
+              "ToolTip": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Lab1.csproj",
+              "RelativeToolTip": "System-design-labs\\Lab1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T19:49:19.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Task2.cs",
+              "RelativeDocumentMoniker": "System-design-labs\\Task2.cs",
+              "ToolTip": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Task2.cs",
+              "RelativeToolTip": "System-design-labs\\Task2.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:47:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Task3.cs",
+              "RelativeDocumentMoniker": "System-design-labs\\Task3.cs",
+              "ToolTip": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Task3.cs",
+              "RelativeToolTip": "System-design-labs\\Task3.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:59:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Program.cs",
+              "RelativeDocumentMoniker": "System-design-labs\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\system-design-2026\\System-design-labs\\System-design-labs\\Program.cs",
+              "RelativeToolTip": "System-design-labs\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:37:34.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
