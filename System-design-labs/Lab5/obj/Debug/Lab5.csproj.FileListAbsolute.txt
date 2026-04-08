@@ -1,0 +1,11 @@
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\bin\Debug\Lab5.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\bin\Debug\Lab5.pdb
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.Student.resources
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.pdb
+C:\Users\anton\system-design-2026\System-design-labs\Lab5\obj\Debug\Lab5.exe.config

@@ -12,3 +12,4 @@ C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debu
 C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.pdb
 C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
 C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\ref\Lab1.dll
+C:\Users\anton\system-design-2026\System-design-labs\System-design-labs\obj\Debug\net8.0\Lab1.sourcelink.json

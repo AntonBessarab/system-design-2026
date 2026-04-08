@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Task1
+using System;
 using System.Threading;
 
 class NumberThread
@@ -45,21 +46,21 @@ class LetterThread
     }
 }
 
-//class Program
-//{
-//    static void Main()
-//    {
-//        Console.WriteLine("Main thread started.");
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Main thread started.");
 
-//        NumberThread nt = new NumberThread("NumberThread");
-//        LetterThread lt = new LetterThread("LetterThread");
+        NumberThread nt = new NumberThread("NumberThread");
+        LetterThread lt = new LetterThread("LetterThread");
 
-//        nt.Thrd.Start();
-//        lt.Thrd.Start();
+        nt.Thrd.Start();
+        lt.Thrd.Start();
 
-//        nt.Thrd.Join();
-//        lt.Thrd.Join();
+        nt.Thrd.Join();
+        lt.Thrd.Join();
 
-//        Console.WriteLine("Main thread completed.");
-//    }
-//}
+        Console.WriteLine("Main thread completed.");
+    }
+}

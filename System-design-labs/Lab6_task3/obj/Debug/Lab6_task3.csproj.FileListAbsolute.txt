@@ -1,0 +1,9 @@
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\bin\Debug\Lab6_task3.exe.config
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\bin\Debug\Lab6_task3.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\bin\Debug\Lab6_task3.pdb
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.csproj.AssemblyReference.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.Properties.Resources.resources
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.csproj.GenerateResource.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.csproj.CoreCompileInputs.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab6_task3\obj\Debug\Lab6_task3.pdb

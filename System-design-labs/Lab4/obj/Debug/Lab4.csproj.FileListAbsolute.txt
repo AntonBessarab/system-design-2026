@@ -1,0 +1,10 @@
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\bin\Debug\Lab4.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\bin\Debug\Lab4.pdb
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.exe
+C:\Users\anton\system-design-2026\System-design-labs\Lab4\obj\Debug\Lab4.pdb
